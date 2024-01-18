@@ -12,7 +12,7 @@ There are few ways to do that.
 
 You could start it locally, put it to server like jetstax.com, replit.com or other
 
-1. Frist of all yuo need to add bot on your discord account
+1. Add bot to your discord account
 2. Import source of this project
 3. Log in to visualcrossing.com and get your key
 4. Add visualcrossing to config.json, token. Set "place" to place you want to get weather from f.e.:"Montpellier,FR",
